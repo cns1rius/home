@@ -22,7 +22,8 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:MjkxNjExNzQ3Mw==@qq.com"
-  },
+  }
+]
 //  {
 //    "name": "Twitter",
 //    "icon": "/images/icon/twitter.png",
@@ -35,4 +36,3 @@
 //    "tip": "你懂的 ~",
 //    "url": "https://t.me/bottom_user"
 //  }
-]
